@@ -1,0 +1,5 @@
+﻿  Entrega_Labirinto.cpp
+C:\Users\INTEL\source\repos\Entrega_Labirinto\Entrega_Labirinto\Entrega_Labirinto.cpp(20,26): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\INTEL\source\repos\Entrega_Labirinto\Entrega_Labirinto\Entrega_Labirinto.cpp(21,23): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\INTEL\source\repos\Entrega_Labirinto\Entrega_Labirinto\Entrega_Labirinto.cpp(142,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Entrega_Labirinto.vcxproj -> C:\Users\INTEL\source\repos\Entrega_Labirinto\Debug\Entrega_Labirinto.exe
